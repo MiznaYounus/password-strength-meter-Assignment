@@ -73,5 +73,5 @@ if st.button("🔍 Check Password Strength"):
         st.error("🚨 Please enter a password to check.")
 
 # 🌟 Footer
-st.markdown("""
----
+st.markdown
+
